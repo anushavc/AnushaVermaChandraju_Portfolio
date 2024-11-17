@@ -1,5 +1,5 @@
 ---
-image: "/static/images/experience.png" 
+image: "/AnushaVermaChandraju_Portfolio/static/images/experience.png" 
 ---
 
 <!--more-->

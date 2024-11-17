@@ -1,6 +1,6 @@
 ---
 type: "page"
-image: "/static/images/about.png"
+image: "/AnushaVermaChandraju_Portfolio/static/images/about.png"
 ---
 
 <!--more-->

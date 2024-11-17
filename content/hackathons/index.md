@@ -1,5 +1,5 @@
 ---
-image: "/static/images/hackathons.png" 
+image: "/AnushaVermaChandraju_Portfolio/static/images/hackathons.png" 
 ---
 
 <!--more-->
