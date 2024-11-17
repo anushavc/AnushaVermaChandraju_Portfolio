@@ -1,0 +1,35 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Anusha Verma Chandraju'
+theme='hugo-theme-quint'
+
+[[menu.main]]
+  name = "Experience"
+  url = "/experience"
+  weight = 1
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects"
+  weight = 2
+
+[[menu.main]]
+  name = "Hackathons"
+  url = "/Hackathons"
+  weight = 3
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 4
+
+[markup]
+  defaultMarkdownHandler = "goldmark"  # Ensure Goldmark is used
+  [markup.goldmark.renderer]
+    unsafe = true  # This allows raw HTML to be rendered
+
+
+contact = "You can write me an [email](mailto:canushaverma@gmail.com)."
+
+
+
