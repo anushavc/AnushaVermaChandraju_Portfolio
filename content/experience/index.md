@@ -1,12 +1,12 @@
 ---
-image: "/AnushaVermaChandraju_Portfolio/static/images/experience.png" 
+image: "/static/images/experience.png" 
 ---
 
 <!--more-->
 <h1 align="center">Work Experience</h1>
 <h4 align="center"><em>""Every role has been a lesson in discovering new paths to meaningful solutions"</em></h4>
 <div style="display: flex; align-items: center; flex-direction: row-reverse;">
-    <img src="/AnushaVermaChandraju_Portfolio/AnushaVermaChandraju_Portfolio/static/images/cf.png" alt="Country Financial" style="width: 150px; height: auto; margin-left: 10px;">
+    <img src="/AnushaVermaChandraju_Portfolio/static/images/cf.png" alt="Country Financial" style="width: 150px; height: auto; margin-left: 10px;">
     <div>
         <h3><strong>Country Financial</strong></h3>
         <em>Data Scientist Intern</em><br>
@@ -25,7 +25,7 @@ image: "/AnushaVermaChandraju_Portfolio/static/images/experience.png"
 </div>
 
 <div style="display: flex; align-items: center; flex-direction: row-reverse;">
-    <img src="/AnushaVermaChandraju_Portfolio/AnushaVermaChandraju_Portfolio/static/images/thermo.png" alt="Thermo Fisher Scientific" style="width: 150px; height: auto; margin-left: 15px;">
+    <img src="/AnushaVermaChandraju_Portfolio/static/images/thermo.png" alt="Thermo Fisher Scientific" style="width: 150px; height: auto; margin-left: 15px;">
     <div>
         <h3><strong>Thermo Fisher Scientific</strong></h3>
         <em>Test Engineer Intern</em><br>
@@ -38,7 +38,7 @@ image: "/AnushaVermaChandraju_Portfolio/static/images/experience.png"
 </div>
 
 <div style="display: flex; align-items: center; flex-direction: row-reverse;">
-    <img src="/AnushaVermaChandraju_Portfolio/AnushaVermaChandraju_Portfolio/static/images/niwe.png" alt="National Institute of Wind Energy" style="width: 150px; height: auto; margin-left: 10px;">
+    <img src="/AnushaVermaChandraju_Portfolio/static/images/niwe.png" alt="National Institute of Wind Energy" style="width: 150px; height: auto; margin-left: 10px;">
     <div>
         <h3><strong>National Institute of Wind Energy</strong></h3>
         <em>Intern</em><br>
@@ -51,7 +51,7 @@ image: "/AnushaVermaChandraju_Portfolio/static/images/experience.png"
 </div>
 
 <div style="display: flex; align-items: center; flex-direction: row-reverse;">
-    <img src="/AnushaVermaChandraju_Portfolio/AnushaVermaChandraju_Portfolio/static/images/sg.png" alt="Siemens Gamesa Renewable Energy" style="width: 150px; height: auto; margin-left: 10px;">
+    <img src="/AnushaVermaChandraju_Portfolio/static/images/sg.png" alt="Siemens Gamesa Renewable Energy" style="width: 150px; height: auto; margin-left: 10px;">
     <div>
         <h3><strong>Siemens Gamesa Renewable Energy</strong></h3>
         <em>Intern</em><br>
