@@ -8,22 +8,22 @@ canonifyURLs = true
 relativeURLs = false  # Ensures full URLs are generated
 [[menu.main]]
   name = "Experience"
-  url = "/experience"
+  url = "AnushaVermaChandraju_Portfolio/experience"
   weight = 1
 
 [[menu.main]]
   name = "Projects"
-  url = "/projects"
+  url = "AnushaVermaChandraju_Portfolio/projects"
   weight = 2
 
 [[menu.main]]
   name = "Hackathons"
-  url = "/Hackathons"
+  url = "AnushaVermaChandraju_Portfolio/hackathons"
   weight = 3
 
 [[menu.main]]
   name = "About"
-  url = "/about"
+  url = "AnushaVermaChandraju_Portfolio/about"
   weight = 4
 
 [markup]

@@ -1,12 +1,12 @@
 ---
-image: "/AnushaVermaChandraju_Portfolio/static/images/hackathons.png" 
+image: "/AnushaVermaChandraju_Portfolio/images/hackathons.png" 
 ---
 
 <!--more-->
 <h1 align="center">Hackathons</h1>
 <h4 align="center"><em>"Hackathons have always been a personal favorite of mine—the thrill of finding swift yet effective solutions and delivering them through sharp, impactful presentations is unmatched."<em></h4>
 <div style="display: flex; align-items: center; flex-direction: row-reverse;">
-    <img src="/AnushaVermaChandraju_Portfolio/static/images/erp.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 10px;"> 
+    <img src="/AnushaVermaChandraju_Portfolio/images/erp.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 10px;"> 
     <div>
         <h3><strong>Sandia National Laboratories Data Challenge</strong></h3>
         <em>1st Place</em><br>
@@ -21,7 +21,7 @@ image: "/AnushaVermaChandraju_Portfolio/static/images/hackathons.png"
 </div>
 
 <div style="display: flex; align-items: center; flex-direction: row-reverse;">
-    <img src="/AnushaVermaChandraju_Portfolio/static/images/homecare.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 15px;">
+    <img src="/AnushaVermaChandraju_Portfolio/images/homecare.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 15px;">
     <div>
         <h3><strong>Intern Case Study Competition</strong></h3>
         <em>3rd Place</em><br>
@@ -36,7 +36,7 @@ image: "/AnushaVermaChandraju_Portfolio/static/images/hackathons.png"
 </div>
 
 <div style="display: flex; align-items: center; flex-direction: row-reverse;">
-    <img src="/AnushaVermaChandraju_Portfolio/static/images/countryhack.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 15px;">
+    <img src="/AnushaVermaChandraju_Portfolio/images/countryhack.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 15px;">
     <div>
         <h3><strong>Country Financial Hackathon 2024</strong></h3>
         <em>Winner of "Solve Problems Creatively" track</em><br>
@@ -51,7 +51,7 @@ image: "/AnushaVermaChandraju_Portfolio/static/images/hackathons.png"
 </div>
 
 <div style="display: flex; align-items: center; flex-direction: row-reverse;">
-    <img src="/AnushaVermaChandraju_Portfolio/static/images/gw.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 10px;"> 
+    <img src="/AnushaVermaChandraju_Portfolio/images/gw.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 10px;"> 
     <div>
         <h3><strong>2024 ASHBY PRIZE IN COMPUTATIONAL SCIENCE Hackathon (NCSA)</strong></h3>
         <em>4th Place</em><br>
@@ -64,7 +64,7 @@ image: "/AnushaVermaChandraju_Portfolio/static/images/hackathons.png"
 </div>
 
 <div style="display: flex; align-items: center; flex-direction: row-reverse;">
-    <img src="/AnushaVermaChandraju_Portfolio/static/images/methodology.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 10px;">
+    <img src="/AnushaVermaChandraju_Portfolio/images/methodology.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 10px;">
     <div>
         <h3><strong>2024 Illinois Statistics Datathon</strong></h3>
         <em>4th Place</em><br>
@@ -77,7 +77,7 @@ image: "/AnushaVermaChandraju_Portfolio/static/images/hackathons.png"
 </div>
 
 <div style="display: flex; align-items: center; flex-direction: row-reverse;">
-    <img src="/AnushaVermaChandraju_Portfolio/static/images/agtech.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 10px;">
+    <img src="/AnushaVermaChandraju_Portfolio/images/agtech.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 10px;">
     <div>
         <h3><strong>2024 AgTech Hackathon</strong></h3>
         <em>2nd Place</em><br>
