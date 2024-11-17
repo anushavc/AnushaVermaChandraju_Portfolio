@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Anusha Verma Chandraju'
 theme='hugo-theme-quint'
 
+
+canonifyURLs = true
+relativeURLs = false  # Ensures full URLs are generated
 [[menu.main]]
   name = "Experience"
   url = "/experience"
