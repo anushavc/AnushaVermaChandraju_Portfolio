@@ -1,13 +1,13 @@
 ---
 type: "page"
-image: "/images/about.png"
+image: "//AnushaVermaChandraju_Portfolio/images/about.png"
 ---
 
 <!--more-->
 <h1 align="center">About</h1>
 <h4 align="center"><em>"Building systems that don't just solve today's problems, but evolve how we approach them entirely"</em></h4>
 <div style="display: flex; align-items: center;">
-  <img src="/images/headshot.png" alt="My Picture" class="custom-image" style="width: 200px; height: 200px; border-radius: 50%; margin-right: 60px;">
+  <img src="/AnushaVermaChandraju_Portfolio//AnushaVermaChandraju_Portfolio/images/headshot.png" alt="My Picture" class="custom-image" style="width: 200px; height: 200px; border-radius: 50%; margin-right: 60px;">
   <div>
     <p>I am data scientist currently pursuing my Master's in Information Management at the University of Illinois Urbana-Champaign, building upon my foundation in Computer Science and Engineering from Vellore Institute of Technology. 
     </p>
