@@ -1,6 +1,6 @@
 ---
 type: "page"
-image: "//AnushaVermaChandraju_Portfolio/static/images/projects.png" 
+image: "/AnushaVermaChandraju_Portfolio/static/images/projects.png" 
 ---
 
 <!--more-->
@@ -8,7 +8,7 @@ image: "//AnushaVermaChandraju_Portfolio/static/images/projects.png"
 <h1 align="center">Projects</h1>
 <h4 align="center"><em>"These are some projects that have provided me with the freedom to experiment, innovate, and, most importantly, learn."<em></h4>
 <div style="display: flex; align-items: center; flex-direction: row-reverse;">
-    <img src="/AnushaVermaChandraju_Portfolio//AnushaVermaChandraju_Portfolio/static/images/rapd.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 10px;"> 
+    <img src="/AnushaVermaChandraju_Portfolio/AnushaVermaChandraju_Portfolio/static/images/rapd.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 10px;"> 
     <div>
         <h3><strong>Design and development of deep learning-based system for the automatic detection of RAPD and Cataract </strong></h3>
         <em>Python, Scikit-learn, Detectron2</em><br>
@@ -22,7 +22,7 @@ image: "//AnushaVermaChandraju_Portfolio/static/images/projects.png"
     </div>
 </div>
 <div style="display: flex; align-items: center; flex-direction: row-reverse;">
-    <img src="/AnushaVermaChandraju_Portfolio//AnushaVermaChandraju_Portfolio/static/images/vaccine.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 10px;">
+    <img src="/AnushaVermaChandraju_Portfolio/AnushaVermaChandraju_Portfolio/static/images/vaccine.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 10px;">
     <div>
         <h3><strong>TikTok Vaccine Misinformation Analysis (Guided Research with Center for Health Informatics and CDC)</strong></h3>
         <em>Python, Streamlit</em><br>
@@ -36,7 +36,7 @@ image: "//AnushaVermaChandraju_Portfolio/static/images/projects.png"
     </div>
 </div>
 <div style="display: flex; align-items: center; flex-direction: row-reverse;">
-    <img src="//AnushaVermaChandraju_Portfolio/olympics.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 10px;">
+    <img src="/AnushaVermaChandraju_Portfolio/olympics.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 10px;">
     <div>
         <h3><strong>Gender Distribution Decoded: A Comprehensive Exploration of the Olympics </strong></h3>
         <em>Tableau, AWS</em><br>
@@ -50,7 +50,7 @@ image: "//AnushaVermaChandraju_Portfolio/static/images/projects.png"
     </div>
 </div>
 <div style="display: flex; align-items: center; flex-direction: row-reverse;">
-    <img src="/AnushaVermaChandraju_Portfolio//AnushaVermaChandraju_Portfolio/static/images/EngageAI.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 10px;">
+    <img src="/AnushaVermaChandraju_Portfolio/AnushaVermaChandraju_Portfolio/static/images/EngageAI.png" alt="Hackathon Image" style="width: 300px; height: auto; margin-left: 10px;">
     <div>
         <h3><strong>EngageAI - Developer's friendly frustration chatbot</strong></h3>
         <em>Python, PyTorch</em><br>
